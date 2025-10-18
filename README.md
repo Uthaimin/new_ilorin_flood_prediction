@@ -1,1 +1,1 @@
-# new_ilorin_flood_prediction
+new machine learning app to predict possible flood events in Ilorin before they occur.
